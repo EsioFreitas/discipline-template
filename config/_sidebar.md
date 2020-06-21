@@ -1,3 +1,5 @@
+<img src="assets/img/logoUnB.png" alt="Logo da UNB" />
+
 - [**Matéria**](/)
 - [**Aulas**](_docs/classes/home.md)
   - [00 - Modelo](_docs/classes/00.classModelo/class.md)
