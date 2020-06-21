@@ -19,11 +19,12 @@ A ideia dessa pagina é mostar a disciplina em um aspecto geral, os calendários
 4. Faça as alterações que deseja
 5. Dê git add, commit e push nas suas alterações
 6. No github do seu fork faça:
-   6.1. Clique em "Settings" no repositorio
-   6.2. Dentro de "Options", desça até "GitHub Pages"
-   6.3. Em "Source", selecione "master branch"
 
-   **Pronto, seu repositorio esta criado e publicado**
+   - Clique em "Settings" no repositorio
+   - Dentro de "Options", desça até "GitHub Pages"
+   - Em "Source", selecione "master branch"
+
+**Pronto, seu repositorio esta criado e publicado**
 
 ## Como adicionar uma aula
 
@@ -37,7 +38,9 @@ Além disso, vou deixar alguns links e guias de como escrever as páginas:
 
 - [Guia básico de markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
-* [Gerador de tabela markdown](https://www.tablesgenerator.com/markdown_tables)
+- [Gerador de tabela markdown](https://www.tablesgenerator.com/markdown_tables)
+
+- [Como publicar documentos Google listados abaixo](https://www.dadosfinos.info/2015/03/publicar-um-iframe-do-google-drive.html)
 
 ## Integrações
 
