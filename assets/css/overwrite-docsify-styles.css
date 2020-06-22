@@ -15,3 +15,7 @@ h6 a span,
 p strong {
   color: #133e79 !important;
 }
+
+p, li{
+  color: #353535;
+}
